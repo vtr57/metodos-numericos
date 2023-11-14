@@ -7,6 +7,8 @@
 
 ### [Scipy](https://github.com/vtr57/metodos-numericos/tree/main/Scipy)
 
+### [Sympy](https://github.com/vtr57/metodos-numericos/tree/main/Sympy)
+
 ## Referencias
 * [Minicurso-Python-Cientifico](https://github.com/aanepomuceno/Minicurso-Python-Cientifico)
 
